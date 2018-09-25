@@ -1,0 +1,6 @@
+[submodule "MathSolvingProcess"]
+	path = MathSolvingProcess
+	url = https://github.com/thinkbigsv/MathSolvingProcess.git
+[submodule "EduWeb"]
+	path = EduWeb
+	url = https://github.com/carolsim/EduWeb.git
